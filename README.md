@@ -1,2 +1,4 @@
 # lazyapi
-Lazy API to control computer
+* Lazy API to control computer
+* Only works on windows
+* Requires python + Flask
